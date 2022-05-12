@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dataDevAlex
-- 👀 I’m interested in ... Data Science and Python
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Golang & Rust
+- 🌱 I’m currently learning ... Golang & Rust
 - 💞️ I’m looking to collaborate on ... For now nothing
 - 📫 How to reach me ... maybe later...
 
